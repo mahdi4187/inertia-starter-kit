@@ -5,7 +5,17 @@ Starter kit for laravel inertia vue3 tailwindcss
 git clone https://github.com/mahdi4187/inertia-starter-kit.git
 ```
 
+```
+composer install
+```
 
+```
+npm install
+```
+or
+```
+yarn install
+```
 
 
 <hr>
