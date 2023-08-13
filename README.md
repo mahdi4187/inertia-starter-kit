@@ -19,4 +19,4 @@ yarn install
 
 
 <hr>
-power by webazin.net
+power by <a href="https://webazin.net">webazin.net</a>
