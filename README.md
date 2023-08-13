@@ -1,4 +1,4 @@
-Starter kit for laravel inertia vue3 tailwindcss  
+Starter kit for laravel inertia vue 3 tailwind css  
 
 #install
 ```
